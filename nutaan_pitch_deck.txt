@@ -1,0 +1,134 @@
+
+Nutaan AI Pitch Deck
+
+Tecosys
+
+Introducing Nutaan AI
+A NEXT GENERATION ENTERPRISE MODEL
+
+The Problem
+Enterprises Are Struggling to Harness AI
+
+1. Large Volumes of Unmanaged Data
+   Information overload from documents.
+
+2. Manual Workflows
+   Repetitive tasks drain resources and hinder productivity.
+
+3. Missing of Latest Informations
+   Outdated informations drain money.
+
+Solutions
+AI-Powered Transformation Awaits
+
+1. Deep Searching
+   Instantly find insights of your query across vast sources with multi-step reasoning.
+
+2. Multi-Step Thinking
+   Solve complex problems with logical reasoning.
+
+3. Summarization
+   Condense large data into actionable insights.
+
+4. Prompt Template
+   Streamline workflows with reusable, customizable prompts.
+
+Introducing Nutaan AI
+Nutaan AI is a next-generation, enterprise-level large language model powered by Tecosys.
+It is designed to address a broad range of enterprise challenges with its multi-step reasoning, agentic decision-making, and deep-searching algorithm.
+It leverages advanced AI algorithms along with open-source data to make AI accessible, scalable, and affordable for all enterprises.
+www.nutaan.com
+
+Timeline
+
+Step 1 – 2024: Birth of Nutaan
+Nutaan's journey was not easy. In July 2024, we set out to build our own proprietary foundational model from scratch.
+Having limited resources and funds, we faced countless hardships in this journey.
+Undeterred, we pushed forward and launched our basic model in November 2025, though many features were unfinished.
+
+Step 2 – 2025:
+After three months of research, we introduced deep searching with multi-step reasoning in February 2025, marking a major breakthrough in the AI world.
+
+How Nutaan was Trained?
+
+Zero Redundancy Optimizer (ZeRO)
+Model Distillation
+This process involves training a smaller "student" model to replicate the behavior of a larger "teacher" model.
+It is an innovative technique to train the model in less memory.
+Nutaan's training algorithms are different from those of other models—it requires less than $200k to train the 20B-parameter model.
+
+Model Benchmarks
+
+Hallucination Rate: 2.3%
+Graduate Level Reasoning: 75%
+Self Correction Rate: 71%
+Nutaan outperforms several model benchmarks, exhibiting a lower hallucination rate and higher accuracy.
+
+Competitive Advantage
+
+Market Opportunity
+Research indicates that the global LLM market for enterprise use was valued at approximately USD 5.6 billion in 2024,
+with estimates suggesting a market size of around USD 7.4 billion in 2025 (Grand View Research).
+This figure is supported by Precedence Research, which calculates the market at USD 7.77 billion in 2025,
+projecting growth to USD 123.09 billion by 2034 at a CAGR of 35.92%.
+
+Sources:
+- https://www.grandviewresearch.com/industry-analysis/large-language-model-llm-market-report
+- https://www.precedenceresearch.com/large-language-model-market
+
+Business Model
+
+Healthcare RCM
+Nutaan can save millions of dollars and thousands of hours for healthcare providers, allowing them to focus more on patient care.
+
+Finance and Banking
+By processing large volumes of financial data, Nutaan can aid in risk assessment, fraud detection, and customer service automation.
+
+Legal Advisory
+Nutaan can process legal documents and content creation for e-drafting, contract management, research and summarization.
+
+Target Sectors
+Approximately 42% of companies globally haven’t started using LLMs, given over 300 million companies worldwide.
+
+Size of the Market
+
+Total Available Market (TAM): 2.85 B
+Serviceable Available Market (SAM): 0.57 B
+Serviceable Obtainable Market (SOM): 57 M
+
+Our target regions are India, UAE & USA.
+USA's market size in 2025 is approximately USD 2.122 billion.
+India's market size is approximately 0.3 * 2.205 = USD 0.6615 billion.
+Assuming the UAE has 20% of MEA's market, its market size is 0.2 * 0.3675 = USD 0.0735 billion.
+
+Product RoadMap
+
+Step 1 – 2025
+API SDK
+Add multilingual support
+Work on SAAS products using Nutaan
+
+Step 2 – 2026
+Increase more features on SAAS products
+Multi-Modal Model Launch
+Custom Domain-Specific Models
+
+Step 3 – 2027
+AGI benchmark touching
+Infinite Memory Solution
+1 bit LLM development
+
+Sales Projection (3 Years)
+(Note: Details not included in the PDF text)
+
+Meet the Team
+
+Avishek Bhattacharjee – Founder
+Haraprasad Hota – Co-founder
+Biswajit Rath – Team Leader
+
+Contact Us
+
+Email Address: info@tecosys.in
+Address: Kolkata, WB, India
+Phone Number: +91 9748567677
